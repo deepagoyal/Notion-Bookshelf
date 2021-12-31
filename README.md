@@ -14,3 +14,6 @@ I have used Jupyter Notebook for organizing, running the Python code.
 5. Get the URL to the Reading list page, the 32 character alphanumeric id in your page URL is your database ID that you will need for using the provided Jupyter Notebook.
 6. Plug in the secret key and database ID in the parameters section of the Notebook.
 7. Google Books API used in this Notebook is the public search endpoint which don't need authentication.
+
+## Finished Bookshelf on Notion
+https://deepagoyal.notion.site/d2b8521392574593afdd8735d166c943?v=858426954e6c46fca4b77700de47e942
